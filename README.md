@@ -6,9 +6,10 @@
 3. build CMake
 
 # To manually manually download the package
-#wget https://github.com/microsoft/onnxruntime/releases/download/v1.15.1/onnxruntime-linux-x64-1.15.1.tgz
-#tar -xvzf onnxruntime-linux-x64-1.15.1.tgz
-
+```bash
+wget https://github.com/microsoft/onnxruntime/releases/download/v1.15.1/onnxruntime-linux-x64-1.15.1.tgz
+tar -xvzf onnxruntime-linux-x64-1.15.1.tgz
+```
 # cmake command
 ```bash
 rm -rf build
