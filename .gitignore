@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+*.json
+
+# Ignore  files 
+temp/
+build/
+onnxruntime-linux-x64-1.15.1/
